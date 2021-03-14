@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "minecraft:sweet_berries"
+  },
+  "result": "sweetberrypi:sweetberry_jam",
+  "experience": 2.0,
+  "cookingtime": 100
+}
