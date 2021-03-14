@@ -1,0 +1,28 @@
+modLoader="javafml"
+loaderVersion="[35,)"
+license="GNU General Public License V3"
+issueTrackerURL="https://github.com/PugsMods/SweetBerryPi/issues"
+[[mods]]
+modId="sweetberrypi"
+version="1.0.0"
+displayName="SweetBerryPi"
+updateJSONURL="http://myurl.me/"
+displayURL=""
+logoFile="examplemod.png"
+credits="Thanks to CandyCaneCazoo for the idea"
+authors="Putopug/PugzAreCute_"
+description='''
+Is it Pi or Pie?
+'''
+[[dependencies.sweetberrypi]]
+    modId="forge"
+    mandatory=true
+    versionRange="[35,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.sweetberrypi]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.4,1.17)"
+    ordering="NONE"
+    side="BOTH"
